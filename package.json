@@ -1,0 +1,11 @@
+{
+  "name": "forzaudp",
+  "version": "1.0.0",
+  "description": "Forza UDP server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Boyle <boyle.patrick.justin@gmail.com>",
+  "license": "ISC"
+}
